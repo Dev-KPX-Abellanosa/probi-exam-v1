@@ -1,0 +1,10 @@
+{
+  "name": "@probi-exam/web-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@probi-exam/web"
+    ]
+  }
+}
